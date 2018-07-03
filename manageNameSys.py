@@ -2,7 +2,7 @@
 """
 Created on Wed Jun 27 09:26:34 2018
 
-@author: 周嘉诚
+@author: rarestzhou
 """
 
 # 名字管理系统 --> list的增删改查
